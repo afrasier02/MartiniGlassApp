@@ -63,8 +63,6 @@ namespace MartiniGlassApp
             }
 
             Console.WriteLine(new string(BottomSymbol, glassBottomSize));
-
-            var test = string.Empty;
         }
     }
 }
